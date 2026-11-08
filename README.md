@@ -1,14 +1,14 @@
-\# CodeAlpha Secure Code Review
+# CodeAlpha Secure Code Review
 
 
 
-\*\*Author:\*\* Bilkisu Ishaq Muhammad  
+**Author:** Bilkisu Ishaq Muhammad  
 
-\*\*CodeAlpha Cyber Security Internship — Task 3\*\*
+**CodeAlpha Cyber Security Internship — Task 3**
 
 
 
-\## Project overview
+## Project overview
 
 
 
@@ -26,7 +26,7 @@ and Bandit static analysis.
 
 
 
-\## Findings and fixes
+## Findings and fixes
 
 
 
@@ -44,7 +44,7 @@ and Bandit static analysis.
 
 
 
-\## Project files
+## Project files
 
 
 
@@ -64,7 +64,7 @@ and Bandit static analysis.
 
 
 
-\## Setup on Windows
+## Setup on Windows
 
 
 
@@ -98,7 +98,7 @@ python -m pip install -r requirements.txt
 
 
 
-\## Run the corrected application
+## Run the corrected application
 
 
 
@@ -136,7 +136,7 @@ and invalidates existing login sessions.
 
 
 
-\## Run the vulnerable version
+## Run the vulnerable version
 
 
 
@@ -158,7 +158,7 @@ Both versions use port 5000, so run only one at a time.
 
 
 
-\## Run Bandit
+## Run Bandit
 
 
 
@@ -180,7 +180,7 @@ These commands replace the corresponding report files.
 
 
 
-\## Test results
+## Test results
 
 
 
@@ -210,7 +210,7 @@ A clean scan does not prove that an application is completely secure.
 
 
 
-\## Limitations
+## Limitations
 
 
 
@@ -234,7 +234,7 @@ training database. Generated databases are excluded from Git tracking.
 
 
 
-\## What I learned
+## What I learned
 
 
 
