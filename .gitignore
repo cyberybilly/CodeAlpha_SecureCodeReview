@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+.venv313/
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Generated training databases
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Local secrets
+.env
+.env.*
+
+# Temporary Word files
+~$*.docx
